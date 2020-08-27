@@ -20,7 +20,7 @@ import {
 const Routes = () => {
   return (
     <Switch>
-      <Redirect exact from="/" to="/sign-in" />
+      {/* <Redirect exact from="/" to="/sign-in" /> */}
       <RouteWithLayout
         component={SignInView}
         exact
