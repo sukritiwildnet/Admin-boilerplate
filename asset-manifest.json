@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Admin-boilerplate/static/css/main.fec45a73.chunk.css",
-    "main.js": "/Admin-boilerplate/static/js/main.b747916b.chunk.js",
-    "main.js.map": "/Admin-boilerplate/static/js/main.b747916b.chunk.js.map",
+    "main.js": "/Admin-boilerplate/static/js/main.7af9f653.chunk.js",
+    "main.js.map": "/Admin-boilerplate/static/js/main.7af9f653.chunk.js.map",
     "runtime-main.js": "/Admin-boilerplate/static/js/runtime-main.2289710f.js",
     "runtime-main.js.map": "/Admin-boilerplate/static/js/runtime-main.2289710f.js.map",
     "static/css/2.18fb2ca0.chunk.css": "/Admin-boilerplate/static/css/2.18fb2ca0.chunk.css",
     "static/js/2.768070c9.chunk.js": "/Admin-boilerplate/static/js/2.768070c9.chunk.js",
     "static/js/2.768070c9.chunk.js.map": "/Admin-boilerplate/static/js/2.768070c9.chunk.js.map",
     "index.html": "/Admin-boilerplate/index.html",
-    "precache-manifest.b63d71be3b665f54fd0d7ad19fb3559c.js": "/Admin-boilerplate/precache-manifest.b63d71be3b665f54fd0d7ad19fb3559c.js",
+    "precache-manifest.0414f6601dfaf4cc499e4a4c49fa17cc.js": "/Admin-boilerplate/precache-manifest.0414f6601dfaf4cc499e4a4c49fa17cc.js",
     "service-worker.js": "/Admin-boilerplate/service-worker.js",
     "static/css/2.18fb2ca0.chunk.css.map": "/Admin-boilerplate/static/css/2.18fb2ca0.chunk.css.map",
     "static/css/main.fec45a73.chunk.css.map": "/Admin-boilerplate/static/css/main.fec45a73.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.18fb2ca0.chunk.css",
     "static/js/2.768070c9.chunk.js",
     "static/css/main.fec45a73.chunk.css",
-    "static/js/main.b747916b.chunk.js"
+    "static/js/main.7af9f653.chunk.js"
   ]
 }
