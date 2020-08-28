@@ -28,23 +28,23 @@ validate.validators = {
 export default class App extends Component {
   render() {
     return (
-      <ThemeProvider theme={theme}>
-        <div>Testing</div>
-        {/* <Router history={browserHistory}>
-          <Route
-            component={SignInView}
-            exact
-            // layout={MinimalLayout}
-            path="/"
-          />
-          <Route
-            component={Dashboard}
-            exact
-            // layout={MinimalLayout}
-            path="/dashboard"
-          />
-        </Router> */}
-      </ThemeProvider>
+      <div>Testing my react admin app</div>
+      // <ThemeProvider theme={theme}>
+      //   <Router history={browserHistory}>
+      //     <Route
+      //       component={SignInView}
+      //       exact
+      //       // layout={MinimalLayout}
+      //       path="/"
+      //     />
+      //     <Route
+      //       component={Dashboard}
+      //       exact
+      //       // layout={MinimalLayout}
+      //       path="/dashboard"
+      //     />
+      //   </Router>
+      // </ThemeProvider>
     );
   }
 }
