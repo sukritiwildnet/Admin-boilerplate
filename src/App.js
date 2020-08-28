@@ -29,7 +29,8 @@ export default class App extends Component {
   render() {
     return (
       <ThemeProvider theme={theme}>
-        <Router history={browserHistory}>
+        <div>Testing</div>
+        {/* <Router history={browserHistory}>
           <Route
             component={SignInView}
             exact
@@ -42,7 +43,7 @@ export default class App extends Component {
             // layout={MinimalLayout}
             path="/dashboard"
           />
-        </Router>
+        </Router> */}
       </ThemeProvider>
     );
   }
