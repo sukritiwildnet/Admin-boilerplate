@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/admin-boilerplate/static/css/main.fec45a73.chunk.css",
-    "main.js": "/admin-boilerplate/static/js/main.fc3a02f5.chunk.js",
-    "main.js.map": "/admin-boilerplate/static/js/main.fc3a02f5.chunk.js.map",
-    "runtime-main.js": "/admin-boilerplate/static/js/runtime-main.47d03493.js",
-    "runtime-main.js.map": "/admin-boilerplate/static/js/runtime-main.47d03493.js.map",
-    "static/css/2.18fb2ca0.chunk.css": "/admin-boilerplate/static/css/2.18fb2ca0.chunk.css",
-    "static/js/2.7a40c506.chunk.js": "/admin-boilerplate/static/js/2.7a40c506.chunk.js",
-    "static/js/2.7a40c506.chunk.js.map": "/admin-boilerplate/static/js/2.7a40c506.chunk.js.map",
-    "index.html": "/admin-boilerplate/index.html",
-    "precache-manifest.597912be2cd31cb610e8c1d95c85584a.js": "/admin-boilerplate/precache-manifest.597912be2cd31cb610e8c1d95c85584a.js",
-    "service-worker.js": "/admin-boilerplate/service-worker.js",
-    "static/css/2.18fb2ca0.chunk.css.map": "/admin-boilerplate/static/css/2.18fb2ca0.chunk.css.map",
-    "static/css/main.fec45a73.chunk.css.map": "/admin-boilerplate/static/css/main.fec45a73.chunk.css.map",
-    "static/js/2.7a40c506.chunk.js.LICENSE.txt": "/admin-boilerplate/static/js/2.7a40c506.chunk.js.LICENSE.txt"
+    "main.css": "/admin-boilerplate/sign-in/static/css/main.fec45a73.chunk.css",
+    "main.js": "/admin-boilerplate/sign-in/static/js/main.b30fdf6e.chunk.js",
+    "main.js.map": "/admin-boilerplate/sign-in/static/js/main.b30fdf6e.chunk.js.map",
+    "runtime-main.js": "/admin-boilerplate/sign-in/static/js/runtime-main.591ecde3.js",
+    "runtime-main.js.map": "/admin-boilerplate/sign-in/static/js/runtime-main.591ecde3.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/admin-boilerplate/sign-in/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.ac7aa050.chunk.js": "/admin-boilerplate/sign-in/static/js/2.ac7aa050.chunk.js",
+    "static/js/2.ac7aa050.chunk.js.map": "/admin-boilerplate/sign-in/static/js/2.ac7aa050.chunk.js.map",
+    "index.html": "/admin-boilerplate/sign-in/index.html",
+    "precache-manifest.96c981e870f83975ea71c68c4ae31aee.js": "/admin-boilerplate/sign-in/precache-manifest.96c981e870f83975ea71c68c4ae31aee.js",
+    "service-worker.js": "/admin-boilerplate/sign-in/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/admin-boilerplate/sign-in/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.fec45a73.chunk.css.map": "/admin-boilerplate/sign-in/static/css/main.fec45a73.chunk.css.map",
+    "static/js/2.ac7aa050.chunk.js.LICENSE.txt": "/admin-boilerplate/sign-in/static/js/2.ac7aa050.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47d03493.js",
+    "static/js/runtime-main.591ecde3.js",
     "static/css/2.18fb2ca0.chunk.css",
-    "static/js/2.7a40c506.chunk.js",
+    "static/js/2.ac7aa050.chunk.js",
     "static/css/main.fec45a73.chunk.css",
-    "static/js/main.fc3a02f5.chunk.js"
+    "static/js/main.b30fdf6e.chunk.js"
   ]
 }
