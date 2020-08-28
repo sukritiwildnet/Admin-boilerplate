@@ -34,7 +34,13 @@ export default class App extends Component {
             component={SignInView}
             exact
             // layout={MinimalLayout}
-            path="/sign-in"
+            path="/"
+          />
+          <Route
+            component={Dashboard}
+            exact
+            // layout={MinimalLayout}
+            path="/dashboard"
           />
         </Router>
       </ThemeProvider>
